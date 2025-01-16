@@ -1,0 +1,41 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	Object–relational mapping (ORM, O/RM, and O/R mapping tool)
+
+
+in computer science is a programming technique for converting data between a relational database and the memory (usually the heap) of an object-oriented programming language. 
+This creates, in effect, a virtual object database that can be used from within the programming language. 
+
+In object-oriented programming, data-management tasks act on objects that combine scalar values into objects. 
+
+	For example,
+
+consider an address book entry that represents a single person along with zero or more phone numbers and zero or more addresses. 
+This could be modeled in an object-oriented implementation by a "Person object" with an attribute/field to hold each data item that the entry comprises: the person's name, a list of phone numbers, and a list of addresses.
+ The list of phone numbers would itself contain "PhoneNumber objects" and so on. 
+ Each such address-book entry is treated as a single object by the programming language (it can be referenced by a single variable containing a pointer to the object, for instance). 
+ Various methods can be associated with the object, such as methods to return the preferred phone number, the home address, and so on. 
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+	OVERVIEW
+
+
+
+Implementation-specific details of storage drivers are generally wrapped in an API in the programming language in use, 
+exposing methods to interact with the storage medium in a way which is simpler and more in line with the paradigms of surrounding code.
+
+The following is a simple example, written in C# code, to execute a query written in SQL using a database engine. 
+
+	var sql = "SELECT id, first_name, last_name, phone, birth_date, sex, age FROM persons WHERE id = 10";
+	var result = context.Persons.FromSqlRaw(sql).ToList();
+	var name = result[0]["first_name"];
+
+In contrast, the following makes use of an ORM-job API which makes it possible to write code that naturally makes use of the features of the language. 
+	var person = repository.GetPerson(10);
+	var firstName = person.GetFirstName();
+
+The case above makes use of an object representing the storage repository and methods of that object. 
+Other frameworks might provide code as static methods, as in the example below, and yet other methods may not implement an object-oriented system at all. 
+Often the choice of paradigm is made for the best fit of the ORM into the surrounding language's design principles. 
+
+	var person = Person.Get(10);
+----------------------------------------------------------------------------------------------------------------------------------------------------------

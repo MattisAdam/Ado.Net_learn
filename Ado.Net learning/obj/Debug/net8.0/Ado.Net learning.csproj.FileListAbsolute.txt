@@ -1,0 +1,15 @@
+C:\code\Sainz\Ado.net\Ado.Net learning\bin\Debug\net8.0\Ado.Net learning.exe
+C:\code\Sainz\Ado.net\Ado.Net learning\bin\Debug\net8.0\Ado.Net learning.deps.json
+C:\code\Sainz\Ado.net\Ado.Net learning\bin\Debug\net8.0\Ado.Net learning.runtimeconfig.json
+C:\code\Sainz\Ado.net\Ado.Net learning\bin\Debug\net8.0\Ado.Net learning.dll
+C:\code\Sainz\Ado.net\Ado.Net learning\bin\Debug\net8.0\Ado.Net learning.pdb
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.AssemblyInfoInputs.cache
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.AssemblyInfo.cs
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.csproj.CoreCompileInputs.cache
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.sourcelink.json
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.dll
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\refint\Ado.Net learning.dll
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.pdb
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\Ado.Net learning.genruntimeconfig.cache
+C:\code\Sainz\Ado.net\Ado.Net learning\obj\Debug\net8.0\ref\Ado.Net learning.dll

@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\ado.net learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:ado.net learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T07:56:44.467Z",
               "IsPinned": true,
@@ -54,7 +50,7 @@
               "RelativeDocumentMoniker": "GameRepository.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\GameRepository.cs",
               "RelativeToolTip": "GameRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T13:48:20.466Z",
               "EditorCaption": ""
@@ -67,35 +63,22 @@
               "RelativeDocumentMoniker": "Dal.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Dal.cs",
               "RelativeToolTip": "Dal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T13:46:29.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T13:44:28.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ado.Net learning.csproj",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Ado.Net learning.csproj",
-              "RelativeDocumentMoniker": "Ado.Net learning.csproj",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Ado.Net learning.csproj",
-              "RelativeToolTip": "Ado.Net learning.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T13:07:36.062Z",
               "EditorCaption": ""
             }
           ]

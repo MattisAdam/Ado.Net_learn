@@ -6,7 +6,8 @@ class Program
     {
         var games = GameRepository.GetGames();
         DisplayGames(games);
-        //Dal.toto();
+        //var games = Dal.Toto();
+        //DisplayGames(games);
     }
 
     private static void DisplayGames(List<Game> games)
@@ -16,6 +17,4 @@ class Program
             Console.WriteLine($"Game : {game.Id} - {game.Name} - {game.RankingType}");
         }
     }
-    
-
 }

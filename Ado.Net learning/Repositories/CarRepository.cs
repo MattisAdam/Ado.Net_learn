@@ -6,11 +6,11 @@ namespace Ado.Net_learning.Repositories
 {
     public class CarRepository : BaseRepository
     {
-        public List<Car> GetCar() {
+        public List<Car> GetCars() 
+        {
+            var cars = Dal.GetData<Car, CarSqlDefinition>("SELECT * FROM [dbo].[Exo1_Car]", Connection);
 
-            var getCar = Dal.GetData<Car, CarSqlDefinition>("SELECT * FROM [dbo].[Exo1_Car]", Connection);
-
-            return getCar;
+            return cars;
         }
     }
 }

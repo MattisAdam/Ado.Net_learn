@@ -14,5 +14,8 @@ namespace Ado.Net_learning.Models
             Name = name;
             RankingType = rankingType;
         }
+        public Game(string name, bool rankingType) : this(0, name, rankingType)
+        {
+        }
     }
 }

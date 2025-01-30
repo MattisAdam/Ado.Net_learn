@@ -14,5 +14,10 @@ namespace Ado.Net_learning.SqlDefinition
             var tempGame = new Game(id, name, rankingType);
             list.Add(tempGame);
         }
+
+        public string GetInsertCommand(Game game)
+        {
+            return $"INSERT INTO [dbo].[Exo2_Game] (Name, RankingType) VALUES ('{game.Name}', {(game.RankingType ? "1" : "0")});";
+        }
     }
 }

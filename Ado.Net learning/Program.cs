@@ -11,10 +11,11 @@ namespace Ado.Net_learning
         static void Main(string[] args)
         {
             //Dal.RemoveData("Server=tcp:inoksch.database.windows.net,1433;Initial Catalog=mattis.dev;Persist Security Info=False;User ID=it;Password=2Thehouseistallandred!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
-            Dal.InsertData("Server=tcp:inoksch.database.windows.net,1433;Initial Catalog=mattis.dev;Persist Security Info=False;User ID=it;Password=2Thehouseistallandred!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
-
-
             var gameRepo = new GameRepository();
+
+            var newGame = new Game("Mikado", true);
+            gameRepo.InsertGame(newGame);
+
             var games = gameRepo.GetGames();
             DisplayGames(games);
 

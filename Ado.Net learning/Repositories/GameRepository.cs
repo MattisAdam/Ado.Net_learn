@@ -13,5 +13,10 @@ namespace Ado.Net_learning.Repositories
             return games;
         }
 
+        public void InsertGame(Game game)
+        {
+            Dal.InsertData(Connection, game);
+        }
+
     }
 }

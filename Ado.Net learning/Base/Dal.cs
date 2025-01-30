@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using Ado.Net_learning.Models;
+using Ado.Net_learning.SqlDefinition;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 
 namespace Ado.Net_learning.Base
@@ -37,15 +39,17 @@ namespace Ado.Net_learning.Base
             }
             return list;
         }
-        public static void InsertData(string connectionString)
+        public static void InsertData(string connectionString, Game game)
         {
+            var objSqlDefinition = new GameSqlDefinition();
+
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 using (SqlCommand cmd = new SqlCommand())
                 {
                     cmd.Connection = connection;
                     cmd.CommandType = System.Data.CommandType.Text;
-                    cmd.CommandText = " \n INSERT INTO[dbo].[Exo2_Game](Name, RankingType) VALUES('Valorant', 1) \n;";
+                    cmd.CommandText = objSqlDefinition.GetInsertCommand(game);
 
 
                     try

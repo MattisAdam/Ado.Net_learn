@@ -2,7 +2,7 @@
 using Ado.Net_learning.Models;
 using Ado.Net_learning.SqlDefinition;
 
-namespace Ado.Net_learning
+namespace Ado.Net_learning.Repositories
 {
     public class TyreRepository : BaseRepository
     {

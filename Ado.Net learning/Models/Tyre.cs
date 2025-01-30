@@ -1,8 +1,8 @@
 ﻿using Ado.Net_learning.Base;
 
-namespace Ado.Net_learning
+namespace Ado.Net_learning.Models
 {
-    public class Tyre : IModel 
+    public class Tyre : IModel
     {
         public int Id { get; set; }
         public int TyreSizeId { get; set; }

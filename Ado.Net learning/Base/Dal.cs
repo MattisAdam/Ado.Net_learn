@@ -1,4 +1,5 @@
-﻿using System.Data.SqlClient;
+﻿using System.Collections.Generic;
+using System.Data.SqlClient;
 
 namespace Ado.Net_learning.Base
 {
@@ -30,10 +31,72 @@ namespace Ado.Net_learning.Base
                 }
                 finally
                 {
-                    Console.WriteLine("Connexion fermée.");
+                    Console.WriteLine("Connexion Réussie.");
                 }
+                connection.Close();
             }
             return list;
+        }
+        public static void InsertData(string connectionString)
+        {
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand())
+                {
+                    cmd.Connection = connection;
+                    cmd.CommandType = System.Data.CommandType.Text;
+                    cmd.CommandText = " \n INSERT INTO[dbo].[Exo2_Game](Name, RankingType) VALUES('Valorant', 1) \n;";
+
+
+                    try
+                    {
+                        connection.Open();
+                        cmd.ExecuteNonQuery();
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Erreur : {ex.Message}");
+                    }
+
+                    finally
+                    {
+                        connection.Close();
+                    }
+                }
+
+
+            }
+        }
+        public static void RemoveData(string connectionString)
+        {
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                using (SqlCommand cmd = new SqlCommand())
+                {
+                    cmd.Connection = connection;
+                    cmd.CommandType = System.Data.CommandType.Text;
+                    cmd.CommandText = "DELETE FROM [dbo].[Exo2_GamePlay] WHERE Id = 7 ;";
+
+
+                    try
+                    {
+                        connection.Open();
+                        cmd.ExecuteNonQuery();
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Erreur : {ex.Message}");
+                    }
+
+                    finally
+                    {
+                        connection.Close();
+                    }
+                }
+
+
+            }
+
         }
     }
 }

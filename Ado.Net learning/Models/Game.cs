@@ -1,6 +1,8 @@
-﻿namespace Ado.Net_learning
+﻿using Ado.Net_learning.Base;
+
+namespace Ado.Net_learning.Models
 {
-    public class Game
+    public class Game : IModel
     {
         public int Id { get; set; }
         public string Name { get; set; }

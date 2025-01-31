@@ -3,28 +3,26 @@
   "WorkspaceRootPath": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{973736A4-100A-4DE0-AADE-EF5CC7A49E19}|..\\Ado.Net.Learning.WinFormsApp\\Ado.Net.Learning.WinFormsApp.csproj|c:\\code\\sainz\\ado.net\\ado.net.learning.winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381B5905-3AD5-4600-9A5E-CB4244AC796B}|..\\Ado.Net.Learning.Data\\Ado.Net.Learning.Data.csproj|c:\\code\\sainz\\ado.net\\ado.net.learning.data\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381B5905-3AD5-4600-9A5E-CB4244AC796B}|..\\Ado.Net.Learning.Data\\Ado.Net.Learning.Data.csproj|c:\\code\\sainz\\ado.net\\ado.net.learning.data\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973736A4-100A-4DE0-AADE-EF5CC7A49E19}|..\\Ado.Net.Learning.WinFormsApp\\Ado.Net.Learning.WinFormsApp.csproj|c:\\code\\sainz\\ado.net\\ado.net.learning.winformsapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381B5905-3AD5-4600-9A5E-CB4244AC796B}|..\\Ado.Net.Learning.Data\\Ado.Net.Learning.Data.csproj|c:\\code\\sainz\\ado.net\\ado.net.learning.data\\sqldefinition\\gamesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973736A4-100A-4DE0-AADE-EF5CC7A49E19}|..\\Ado.Net.Learning.WinFormsApp\\Ado.Net.Learning.WinFormsApp.csproj|c:\\code\\sainz\\ado.net\\ado.net.learning.winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\sqldefinition\\gamesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:sqldefinition\\gamesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\basesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\basesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +32,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T07:56:44.467Z",
               "IsPinned": true,
@@ -52,68 +50,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dal.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\Dal.cs",
-              "RelativeDocumentMoniker": "Base\\Dal.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\Dal.cs",
-              "RelativeToolTip": "Base\\Dal.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Ado.Net.Learning.WinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.WinFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Ado.Net.Learning.WinFormsApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T14:19:24.56Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-01-31T15:26:07.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameSqlDefinition.cs",
+              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.Data\\SqlDefinition\\GameSqlDefinition.cs",
+              "RelativeDocumentMoniker": "..\\Ado.Net.Learning.Data\\SqlDefinition\\GameSqlDefinition.cs",
+              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.Data\\SqlDefinition\\GameSqlDefinition.cs",
+              "RelativeToolTip": "..\\Ado.Net.Learning.Data\\SqlDefinition\\GameSqlDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:17:12.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameRepository.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\GameRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\GameRepository.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\GameRepository.cs",
-              "RelativeToolTip": "Repositories\\GameRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvx4AAAAqAAAAAAAAAA==",
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.Data\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "..\\Ado.Net.Learning.Data\\Models\\Game.cs",
+              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.Data\\Models\\Game.cs",
+              "RelativeToolTip": "..\\Ado.Net.Learning.Data\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T09:48:37.384Z",
+              "WhenOpened": "2025-01-31T14:57:46.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameSqlDefinition.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\GameSqlDefinition.cs",
-              "RelativeDocumentMoniker": "SqlDefinition\\GameSqlDefinition.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\GameSqlDefinition.cs",
-              "RelativeToolTip": "SqlDefinition\\GameSqlDefinition.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvxwAAABQAAAAAAAAAA==",
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.Data\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ado.Net.Learning.Data\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.Data\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "..\\Ado.Net.Learning.Data\\Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:22:08.45Z",
+              "WhenOpened": "2025-01-31T14:57:41.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Base\\BaseRepository.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\BaseRepository.cs",
-              "RelativeToolTip": "Base\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.WinFormsApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Ado.Net.Learning.WinFormsApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.WinFormsApp\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Ado.Net.Learning.WinFormsApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAhwEoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T09:10:13.52Z",
+              "WhenOpened": "2025-01-31T14:45:54.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseSqlDefinition.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\BaseSqlDefinition.cs",
-              "RelativeDocumentMoniker": "Base\\BaseSqlDefinition.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\BaseSqlDefinition.cs",
-              "RelativeToolTip": "Base\\BaseSqlDefinition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Ado.Net.Learning.WinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net.Learning.WinFormsApp\\Form1.cs",
+              "RelativeToolTip": "..\\Ado.Net.Learning.WinFormsApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T08:56:36.777Z",
+              "WhenOpened": "2025-01-31T14:25:42.954Z",
               "EditorCaption": ""
             }
           ]

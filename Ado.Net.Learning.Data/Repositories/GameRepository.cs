@@ -1,8 +1,8 @@
-﻿using Ado.Net_learning.Base;
-using Ado.Net_learning.Models;
-using Ado.Net_learning.SqlDefinition;
+﻿using Ado.Net.Learning.Data.Base;
+using Ado.Net.Learning.Data.Models;
+using Ado.Net.Learning.Data.SqlDefinition;
 
-namespace Ado.Net_learning.Repositories
+namespace Ado.Net.Learning.Data.Repositories
 {
     public class GameRepository : BaseRepository
     {

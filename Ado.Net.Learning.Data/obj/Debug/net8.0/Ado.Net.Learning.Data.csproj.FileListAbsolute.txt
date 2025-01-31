@@ -1,0 +1,13 @@
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.csproj.AssemblyReference.cache
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.AssemblyInfoInputs.cache
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.AssemblyInfo.cs
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.csproj.CoreCompileInputs.cache
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.sourcelink.json
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\bin\Debug\net8.0\Ado.Net.Learning.Data.deps.json
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\bin\Debug\net8.0\Ado.Net.Learning.Data.dll
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\bin\Debug\net8.0\Ado.Net.Learning.Data.pdb
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.dll
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\refint\Ado.Net.Learning.Data.dll
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\Ado.Net.Learning.Data.pdb
+C:\code\Sainz\Ado.net\Ado.Net.Learning.Data\obj\Debug\net8.0\ref\Ado.Net.Learning.Data.dll

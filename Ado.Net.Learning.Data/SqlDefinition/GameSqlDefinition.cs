@@ -1,8 +1,8 @@
-﻿using Ado.Net_learning.Base;
-using Ado.Net_learning.Models;
+﻿using Ado.Net.Learning.Data.Base;
+using Ado.Net.Learning.Data.Models;
 using System.Data.SqlClient;
 
-namespace Ado.Net_learning.SqlDefinition
+namespace Ado.Net.Learning.Data.SqlDefinition
 {
     public class GameSqlDefinition : BaseSqlDefinition<Game>
     {
@@ -26,7 +26,7 @@ namespace Ado.Net_learning.SqlDefinition
         }
         public string GetDeleteCommand(Game game)
         {
-            return $"DELETE FROM [dbo].[Exo2_Game] WHERE Id = {game.Id}";
+            return $"DELETE FROM [dbo].[Exo2_Game] WHERE Id =  {game.Id}";
         }
     }
 }

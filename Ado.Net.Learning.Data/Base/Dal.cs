@@ -1,9 +1,6 @@
-﻿using Ado.Net_learning.Models;
-using Ado.Net_learning.SqlDefinition;
-using System.Collections.Generic;
-using System.Data.SqlClient;
+﻿using System.Data.SqlClient;
 
-namespace Ado.Net_learning.Base
+namespace Ado.Net.Learning.Data.Base
 {
     public static class Dal
     {

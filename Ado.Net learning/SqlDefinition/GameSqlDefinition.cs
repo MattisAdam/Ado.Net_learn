@@ -19,5 +19,14 @@ namespace Ado.Net_learning.SqlDefinition
         {
             return $"INSERT INTO [dbo].[Exo2_Game] (Name, RankingType) VALUES ('{game.Name}', {(game.RankingType ? "1" : "0")});";
         }
+
+        public string GetUpdateCommand(Game game, Game updateGame)
+        {
+            return $"UPDATE [dbo].[Exo2_Game] SET Name = '{updateGame.Name}' WHERE Name = '{game.Name}'";
+        }
+        public string GetDeleteCommand(Game game)
+        {
+            return $"DELETE FROM [dbo].[Exo2_Game] WHERE Name = '{game.Name}';";
+        }
     }
 }

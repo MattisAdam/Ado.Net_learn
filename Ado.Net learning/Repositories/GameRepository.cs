@@ -15,7 +15,21 @@ namespace Ado.Net_learning.Repositories
 
         public void InsertGame(Game game)
         {
-            Dal.InsertData(Connection, game);
+            var x = new GameSqlDefinition();
+            var query = x.GetInsertCommand(game);
+            Dal.ExecuteSql(Connection, game, query);
+        }
+        public void DeleteGame(Game game)
+        {
+            var x = new GameSqlDefinition();
+            var query = x.GetDeleteCommand(game);
+            Dal.ExecuteSql(Connection, game, query);
+        }
+        public void UpdateGame(Game game, Game updateGame)
+        {
+            var x = new GameSqlDefinition();
+            var query = x.GetUpdateCommand(game, updateGame);
+            Dal.ExecuteSql(Connection, game, query);
         }
 
     }

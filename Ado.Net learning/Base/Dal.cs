@@ -39,17 +39,15 @@ namespace Ado.Net_learning.Base
             }
             return list;
         }
-        public static void InsertData(string connectionString, Game game)
+        public static void ExecuteSql(string connectionString, Game game, string query )
         {
-            var objSqlDefinition = new GameSqlDefinition();
-
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 using (SqlCommand cmd = new SqlCommand())
                 {
                     cmd.Connection = connection;
                     cmd.CommandType = System.Data.CommandType.Text;
-                    cmd.CommandText = objSqlDefinition.GetInsertCommand(game);
+                    cmd.CommandText = query;
 
 
                     try
@@ -67,40 +65,8 @@ namespace Ado.Net_learning.Base
                         connection.Close();
                     }
                 }
-
-
             }
         }
-        public static void RemoveData(string connectionString)
-        {
-            using (SqlConnection connection = new SqlConnection(connectionString))
-            {
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.Connection = connection;
-                    cmd.CommandType = System.Data.CommandType.Text;
-                    cmd.CommandText = "DELETE FROM [dbo].[Exo2_GamePlay] WHERE Id = 7 ;";
 
-
-                    try
-                    {
-                        connection.Open();
-                        cmd.ExecuteNonQuery();
-                    }
-                    catch (Exception ex)
-                    {
-                        Console.WriteLine($"Erreur : {ex.Message}");
-                    }
-
-                    finally
-                    {
-                        connection.Close();
-                    }
-                }
-
-
-            }
-
-        }
     }
 }

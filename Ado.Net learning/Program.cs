@@ -1,6 +1,7 @@
 ﻿using Ado.Net_learning.Base;
 using Ado.Net_learning.Models;
 using Ado.Net_learning.Repositories;
+using Ado.Net_learning.SqlDefinition;
 using Microsoft.VisualBasic;
 using System.Collections.Generic;
 using System.Xml.Linq;
@@ -10,11 +11,15 @@ namespace Ado.Net_learning
     {
         static void Main(string[] args)
         {
-            //Dal.RemoveData("Server=tcp:inoksch.database.windows.net,1433;Initial Catalog=mattis.dev;Persist Security Info=False;User ID=it;Password=2Thehouseistallandred!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             var gameRepo = new GameRepository();
+            var newGame = new Game("Valorant", true);
+            var updateGame = new Game("Mikado", true);
 
-            var newGame = new Game("Mikado", true);
+
             gameRepo.InsertGame(newGame);
+            gameRepo.DeleteGame(newGame);
+            gameRepo.UpdateGame(newGame, updateGame);
+            gameRepo.DeleteGame(updateGame);
 
             var games = gameRepo.GetGames();
             DisplayGames(games);

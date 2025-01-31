@@ -7,60 +7,24 @@
       "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\sqldefinition\\gamesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:sqldefinition\\gamesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\sqldefinition\\tyresqldefintion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:sqldefinition\\tyresqldefintion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\sqldefinition\\carsqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:sqldefinition\\carsqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\repositories\\tyrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:repositories\\tyrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\repositories\\insertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:repositories\\insertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\models\\tyre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:models\\tyre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\basesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\basesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|c:\\code\\sainz\\ado.net\\ado.net learning\\base\\basesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4994C0CB-88ED-4093-8EB4-4E0F62F3D09A}|Ado.Net learning.csproj|solutionrelative:base\\basesqldefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,7 +44,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T07:56:44.467Z",
               "IsPinned": true,
@@ -88,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dal.cs",
               "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\Dal.cs",
               "RelativeDocumentMoniker": "Base\\Dal.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\Dal.cs",
               "RelativeToolTip": "Base\\Dal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwC0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T14:19:24.56Z",
               "IsPinned": true,
@@ -102,13 +66,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:48:37.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GameSqlDefinition.cs",
               "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\GameSqlDefinition.cs",
               "RelativeDocumentMoniker": "SqlDefinition\\GameSqlDefinition.cs",
               "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\GameSqlDefinition.cs",
               "RelativeToolTip": "SqlDefinition\\GameSqlDefinition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxwAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T16:22:08.45Z",
               "EditorCaption": ""
@@ -116,136 +93,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TyreSqlDefintion.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\TyreSqlDefintion.cs",
-              "RelativeDocumentMoniker": "SqlDefinition\\TyreSqlDefintion.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\TyreSqlDefintion.cs",
-              "RelativeToolTip": "SqlDefinition\\TyreSqlDefintion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:22:06.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarSqlDefinition.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\CarSqlDefinition.cs",
-              "RelativeDocumentMoniker": "SqlDefinition\\CarSqlDefinition.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\SqlDefinition\\CarSqlDefinition.cs",
-              "RelativeToolTip": "SqlDefinition\\CarSqlDefinition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:21:48.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TyreRepository.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\TyreRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\TyreRepository.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\TyreRepository.cs",
-              "RelativeToolTip": "Repositories\\TyreRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:21:18.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "Repositories\\CarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:20:11.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tyre.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Models\\Tyre.cs",
-              "RelativeDocumentMoniker": "Models\\Tyre.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Models\\Tyre.cs",
-              "RelativeToolTip": "Models\\Tyre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:20:04.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "Models\\Car.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Models\\Car.cs",
-              "RelativeToolTip": "Models\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:19:55.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InsertRepository.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\InsertRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InsertRepository.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\InsertRepository.cs",
-              "RelativeToolTip": "Repositories\\InsertRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T14:43:12.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameRepository.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\GameRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\GameRepository.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Repositories\\GameRepository.cs",
-              "RelativeToolTip": "Repositories\\GameRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T15:04:22.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "Models\\Game.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Models\\Game.cs",
-              "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T14:41:13.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IModel.cs",
-              "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\IModel.cs",
-              "RelativeDocumentMoniker": "Base\\IModel.cs",
-              "ToolTip": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\IModel.cs",
-              "RelativeToolTip": "Base\\IModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T16:19:53.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Base\\BaseRepository.cs",
@@ -258,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "BaseSqlDefinition.cs",
               "DocumentMoniker": "C:\\code\\Sainz\\Ado.net\\Ado.Net learning\\Base\\BaseSqlDefinition.cs",
               "RelativeDocumentMoniker": "Base\\BaseSqlDefinition.cs",
